@@ -3,7 +3,6 @@
   "version": "5.0.0",
   "license": "MIT",
   "private": true,
-  "main": "dist/lodash.js",
   "sideEffects": false,
   "scripts": {
     "prepare": "husky install",
